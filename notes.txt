@@ -1,0 +1,15 @@
+
+Go doesn't have private / public property
+
+struct is go equivalent of Class in java
+
+struct accessmodifier is controlled by variable naming convention, 
+var that starts with uppercase is deemed public,
+var that starts with lowercase is deemed private
+
+
+slice is the equivalent of Array in java
+
+
+
+receiver in go, is like attached a function to a struct, most of receiver in go is pointer type
